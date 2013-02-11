@@ -385,6 +385,7 @@
 				GCC_PREFIX_HEADER = "GitHubTestApp/GitHubTestApp-Prefix.pch";
 				INFOPLIST_FILE = "GitHubTestApp/GitHubTestApp-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -396,6 +397,7 @@
 				GCC_PREFIX_HEADER = "GitHubTestApp/GitHubTestApp-Prefix.pch";
 				INFOPLIST_FILE = "GitHubTestApp/GitHubTestApp-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

@@ -29,4 +29,18 @@
     STFail(@"Unit tests are not implemented yet in GitHubTestAppTests");
 }
 
+
+- (void)testSaby
+{
+    UIApplication *application = [UIApplication sharedApplication];
+    STAssertNotNil(application,@"application is nil!");
+}
+
+
+- (void)testSaby2
+{
+    UIApplication *application = [UIApplication sharedApplication];
+    STAssertNotNil(application,@"application is nil!");
+}
+
 @end
