@@ -1,0 +1,301 @@
+TGitHubTestAppTests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/Info.plist GitHubTestAppTests/GitHubTestAppTests-Info.plist
+cProcessPCH /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.pth GitHubTestApp/GitHubTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.o /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests normal i386
+cGenerateDSYMFile /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests
+cCopyStringsFile /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/en.lproj/InfoPlist.strings GitHubTestAppTests/en.lproj/InfoPlist.strings
+cPhaseScriptExecution "Run Script" /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Script-5AC279D716C925C8002B3CD3.sh
+cTouch /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c00000000510FAF9A00000000000310B0
+t1359982490
+s200880
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c00000000510FAFC20000000000000E25
+t1359982530
+s3621
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c00000000510FAFC20000000000000701
+t1359982530
+s1793
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c00000000510FAFC2000000000000084C
+t1359982530
+s2124
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c00000000510FAFC200000000000019FB
+t1359982530
+s6651
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c00000000510FAFC20000000000000875
+t1359982530
+s2165
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c00000000510FAFC20000000000007F41
+t1359982530
+s32577
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c00000000510FAFC20000000000000947
+t1359982530
+s2375
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c00000000510FAFC20000000000000800
+t1359982530
+s2048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c00000000510FAFC2000000000000079D
+t1359982530
+s1949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c00000000510FAFC20000000000000A6C
+t1359982530
+s2668
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c00000000510FAFC20000000000000AD1
+t1359982530
+s2769
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c00000000510FAFC20000000000000A79
+t1359982530
+s2681
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c00000000510FAFC20000000000000CCF
+t1359982530
+s3279
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c00000000510FAFC200000000000007E1
+t1359982530
+s2017
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c00000000510FAFC200000000000008A5
+t1359982530
+s2213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c00000000510FAFC20000000000000C37
+t1359982530
+s3127
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510FAFD400000000003DDFA0
+t1359982548
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000510FAFD300000000000015F7
+t1359982547
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510FAFDA0000000000000E8D
+t1359982554
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510FAFDD0000000000AB6230
+t1359982557
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000510FAFF40000000000001B73
+t1359982580
+s7027
+
+N/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestApp/GitHubTestApp-Prefix.pch
+c000000005118EE480000000000000149
+t1360588360
+s329
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.h
+c000000005118EE4800000000000000F7
+t1360588360
+s247
+
+N/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m
+c00000000511A084F0000000000000301
+t1360660559
+s769
+
+N/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/en.lproj/InfoPlist.strings
+c000000005118EE48000000000000002D
+t1360588360
+s45
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.LinkFileList
+c00000000511A0BB2000000000000009F
+t1360661426
+s159
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.o
+t2
+s0
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Script-5AC279D716C925C8002B3CD3.sh
+c00000000511A0BB20000000000000254
+t1360661426
+s596
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest
+t2
+s0
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM
+t2
+s0
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests
+t2
+s0
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/Info.plist
+t2
+s0
+
+N/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.pth
+t2
+s0
+
+NGitHubTestAppTests/GitHubTestAppTests-Info.plist
+c000000005118EE4800000000000002B3
+t1360588360
+s691
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies132bab3243cab641^4e25b33243cab641^---0#1#0#--18"Check dependencies36"F3D28BB3-92AA-4030-A151-935E035F5C78-
+
+CCompileC build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.o /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382354228.250751
+e382354228.480300
+r1
+xCompileC
+xbuild/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.o
+x/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m0c90403443cab641^56f57a3443cab641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m0000000000000000^4071"CompileC build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.o GitHubTestAppTests/GitHubTestAppTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-generated-files.hmap -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-own-target-headers.hmap -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-all-target-headers.hmap -iquote /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-project-headers.hmap -I/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/DerivedSources/i386 -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/DerivedSources -F/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch -MMD -MT dependencies -MF /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.d --serialize-diagnostics /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.dia -c /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m -o /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.o36"10F2858C-88D6-4FDB-85D4-781B855EC97C-
+
+CCopyStringsFile /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/en.lproj/InfoPlist.strings GitHubTestAppTests/en.lproj/InfoPlist.strings
+s382354228.728117
+e382354228.769840
+r1
+xCopyStringsFile
+x/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/en.lproj/InfoPlist.strings
+xGitHubTestAppTests/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy GitHubTestAppTests/en.lproj/InfoPlist.strings59a3ba3443cab641^8b19c53443cab641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/en.lproj/InfoPlist.strings0000000000000000^684"CopyStringsFile build/Release-iphonesimulator/GitHubTestAppTests.octest/en.lproj/InfoPlist.strings GitHubTestAppTests/en.lproj/InfoPlist.strings    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/en.lproj -- GitHubTestAppTests/en.lproj/InfoPlist.strings36"99D1001D-D92E-4B0D-8C2C-936B934B7352-
+
+CGenerateDSYMFile /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests
+s382354228.667908
+e382354228.719141
+r1
+xGenerateDSYMFile
+x/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM
+x/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Generate /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM44f9b23443cab641^a019b83443cab641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM000000000080d041^770"GenerateDSYMFile build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests -o /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest.dSYM36"A7387746-F91A-46D6-B363-5B62C09D46D9-
+
+CLd /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests normal i386
+s382354228.487558
+e382354228.660137
+r1
+xLd
+x/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests93fc7c3443cab641^22ffa83443cab641^---0#0#0#--1642"Ld build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests normal i386    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator -F/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.LinkFileList -bundle_loader /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestApp.app/GitHubTestApp -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/GitHubTestAppTests36"1268B9FB-2EEE-4137-8CDF-40709E2ED3FB-
+
+CPhaseScriptExecution "Run Script" /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Script-5AC279D716C925C8002B3CD3.sh
+s382354228.778864
+e382354231.194164
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Script-5AC279D716C925C8002B3CD3.sh
+o[DEBUG] Test Suite 'All tests' started at 2013-02-12 09:30:31 +0000
+oTest Suite '/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest(Tests)' started at 2013-02-12 09:30:31 +0000
+o
+o[DEBUG] Test Suite 'GitHubTestAppTests' started at 2013-02-12 09:30:31 +0000
+oTest Case '-[GitHubTestAppTests testExample]' started.
+o
+o[DEBUG] /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m:42: error: -[GitHubTestAppTests testExample] : Unit tests are not implemented yet in GitHubTestAppTests
+o
+o[DEBUG] Test Case '-[GitHubTestAppTests testExample]' failed (0.000 seconds).
+oTest Case '-[GitHubTestAppTests testSaby]' started.
+oTest Case '-[GitHubTestAppTests testSaby]' passed (0.000 seconds).
+oTest Case '-[GitHubTestAppTests testSaby2]' started.
+o
+o[DEBUG] Test Case '-[GitHubTestAppTests testSaby2]' passed (0.000 seconds).
+oTest Suite 'GitHubTestAppTests' finished at 2013-02-12 09:30:31 +0000.
+oExecuted 3 tests, with 1 failure (0 unexpected) in 0.001 (0.001) seconds
+o
+o[DEBUG] Test Suite '/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest(Tests)' finished at 2013-02-12 09:30:31 +0000.
+oExecuted 3 tests, with 1 failure (0 unexpected) in 0.001 (0.001) seconds
+oTest Suite 'All tests' finished at 2013-02-12 09:30:31 +0000.
+oExecuted 3 tests, with 1 failure (0 unexpected) in 0.001 (0.002) seconds
+o
+oFinished running tests with ios-sim
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'8a75ca3443cab641^a5dc313743cab641^-1527"[DEBUG] Test Suite 'All tests' started at 2013-02-12 09:30:31 +0000Test Suite '/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest(Tests)' started at 2013-02-12 09:30:31 +0000[DEBUG] Test Suite 'GitHubTestAppTests' started at 2013-02-12 09:30:31 +0000Test Case '-[GitHubTestAppTests testExample]' started.[DEBUG] /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m:42: error: -[GitHubTestAppTests testExample] : Unit tests are not implemented yet in GitHubTestAppTests[DEBUG] Test Case '-[GitHubTestAppTests testExample]' failed (0.000 seconds).Test Case '-[GitHubTestAppTests testSaby]' started.Test Case '-[GitHubTestAppTests testSaby]' passed (0.000 seconds).Test Case '-[GitHubTestAppTests testSaby2]' started.[DEBUG] Test Case '-[GitHubTestAppTests testSaby2]' passed (0.000 seconds).Test Suite 'GitHubTestAppTests' finished at 2013-02-12 09:30:31 +0000.Executed 3 tests, with 1 failure (0 unexpected) in 0.001 (0.001) seconds[DEBUG] Test Suite '/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest(Tests)' finished at 2013-02-12 09:30:31 +0000.Executed 3 tests, with 1 failure (0 unexpected) in 0.001 (0.001) secondsTest Suite 'All tests' finished at 2013-02-12 09:30:31 +0000.Executed 3 tests, with 1 failure (0 unexpected) in 0.001 (0.002) secondsFinished running tests with ios-simCommand /bin/sh emitted errors but did not return a nonzero exit code to indicate failure18(21%IDEActivityLogMessage2@68"[DEBUG] Test Suite 'All tests' started at 2013-02-12 09:30:31 +0000-382354231#0#68#-0#-----2@156"Test Suite '/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest(Tests)' started at 2013-02-12 09:30:31 +0000-382354231#68#156#-0#-----2@77"[DEBUG] Test Suite 'GitHubTestAppTests' started at 2013-02-12 09:30:31 +0000-382354231#225#77#-0#-----2@55"Test Case '-[GitHubTestAppTests testExample]' started.-382354231#302#55#-0#-----2@92"-[GitHubTestAppTests testExample] : Unit tests are not implemented yet in GitHubTestAppTests-382354231#358#195#-2#-23%DVTTextDocumentLocation3@155"file://localhost/Users/florinsabou/Workspace/GitHubTestApp/%5BDEBUG%5D%20/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests.m0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#29"Shell Script Invocation Error--2@78"[DEBUG] Test Case '-[GitHubTestAppTests testExample]' failed (0.000 seconds).-382354231#554#78#-0#-----2@52"Test Case '-[GitHubTestAppTests testSaby]' started.-382354231#632#52#-0#-----2@67"Test Case '-[GitHubTestAppTests testSaby]' passed (0.000 seconds).-382354231#684#67#-0#-----2@53"Test Case '-[GitHubTestAppTests testSaby2]' started.-382354231#751#53#-0#-----2@76"[DEBUG] Test Case '-[GitHubTestAppTests testSaby2]' passed (0.000 seconds).-382354231#805#76#-0#-----2@71"Test Suite 'GitHubTestAppTests' finished at 2013-02-12 09:30:31 +0000.-382354231#881#71#-0#-----2@73"Executed 3 tests, with 1 failure (0 unexpected) in 0.001 (0.001) seconds-382354231#952#73#-0#-----2@166"[DEBUG] Test Suite '/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest(Tests)' finished at 2013-02-12 09:30:31 +0000.-382354231#1026#166#-0#-----2@73"Executed 3 tests, with 1 failure (0 unexpected) in 0.001 (0.001) seconds-382354231#1192#73#-0#-----2@62"Test Suite 'All tests' finished at 2013-02-12 09:30:31 +0000.-382354231#1265#62#-0#-----2@73"Executed 3 tests, with 1 failure (0 unexpected) in 0.001 (0.002) seconds-382354231#1327#73#-0#-----2@36"Finished running tests with ios-sim-382354231#1401#36#-0#-----2@89"Command /bin/sh emitted errors but did not return a nonzero exit code to indicate failure-382354231#18446744073709551615#0#-2#--29"Shell Script Invocation Error--0#0#0#--21877"PhaseScriptExecution "Run Script" build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Script-5AC279D716C925C8002B3CD3.sh    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER florinsabou    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/florinsabou/Workspace/GitHubTestApp/build    setenv BUILD_ROOT /Users/florinsabou/Workspace/GitHubTestApp/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator    setenv BUNDLE_LOADER /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestApp.app/GitHubTestApp    setenv CACHE_ROOT /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_CXX_LANGUAGE_STANDARD gnu++0x    setenv CLANG_CXX_LIBRARY libc++    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator    setenv CONTENTS_FOLDER_PATH GitHubTestAppTests.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH GitHubTestAppTests.octest/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/GitHubTestApp.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME GitHubTestAppTests.octest.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH GitHubTestAppTests.octest/Executables    setenv EXECUTABLE_FOLDER_PATH GitHubTestAppTests.octest    setenv EXECUTABLE_NAME GitHubTestAppTests    setenv EXECUTABLE_PATH GitHubTestAppTests.octest/GitHubTestAppTests    setenv FILE_LIST /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH GitHubTestAppTests.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator\" \"/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks\" \"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME GitHubTestAppTests.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER GitHubTestApp/GitHubTestApp-Prefix.pch    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/include\"  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE GitHubTestAppTests/GitHubTestAppTests-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH GitHubTestAppTests.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH GitHubTestAppTests.octest/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/GitHubTestApp.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER florinsabou    setenv INSTALL_ROOT /tmp/GitHubTestApp.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH GitHubTestAppTests.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal/i386/GitHubTestAppTests.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH GitHubTestAppTests.octest/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11G63b    setenv MAC_OS_X_VERSION_ACTUAL 1075    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0705    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Objects-normal    setenv OBJROOT /Users/florinsabou/Workspace/GitHubTestApp/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPENSSL_SRC /Users/florinsabou/Downloads/openssl-1.0.0e    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv OTHER_CPLUSPLUSFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH GitHubTestAppTests.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/PkgInfo    setenv PKGINFO_PATH GitHubTestAppTests.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH GitHubTestAppTests.octest/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH GitHubTestAppTests.octest/PrivateHeaders    setenv PRODUCT_NAME GitHubTestAppTests    setenv PRODUCT_SETTINGS_PATH /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT GitHubTestApp    setenv PROJECT_DERIVED_FILE_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/DerivedSources    setenv PROJECT_DIR /Users/florinsabou/Workspace/GitHubTestApp    setenv PROJECT_FILE_PATH /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestApp.xcodeproj    setenv PROJECT_NAME GitHubTestApp    setenv PROJECT_TEMP_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build    setenv PROJECT_TEMP_ROOT /Users/florinsabou/Workspace/GitHubTestApp/build    setenv PUBLIC_HEADERS_FOLDER_PATH GitHubTestAppTests.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv RUN_UNIT_TEST_WITH_IOS_SIM YES    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH GitHubTestAppTests.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH GitHubTestAppTests.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH GitHubTestAppTests.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/florinsabou/Workspace/GitHubTestApp    setenv SRCROOT /Users/florinsabou/Workspace/GitHubTestApp    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/florinsabou/Workspace/GitHubTestApp/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME GitHubTestAppTests    setenv TARGET_BUILD_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator    setenv TARGET_NAME GitHubTestAppTests    setenv TARGET_TEMP_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build    setenv TEMP_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build    setenv TEMP_FILES_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build    setenv TEMP_FILE_DIR /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build    setenv TEMP_ROOT /Users/florinsabou/Workspace/GitHubTestApp/build    setenv TEST_AFTER_BUILD YES    setenv TEST_HOST /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestApp.app/GitHubTestApp    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH GitHubTestAppTests.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER florinsabou    setenv USER_APPS_DIR /Users/florinsabou/Applications    setenv USER_LIBRARY_DIR /Users/florinsabou/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT YES    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH GitHubTestAppTests.octest/version.plist    setenv VERSION_INFO_BUILDER florinsabou    setenv VERSION_INFO_FILE GitHubTestAppTests_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:GitHubTestAppTests  PROJECT:GitHubTestApp-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME GitHubTestAppTests.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H127    setenv XCODE_VERSION_ACTUAL 0460    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/Script-5AC279D716C925C8002B3CD3.sh36"3A9554C7-D075-427A-829E-8D9570F4D358-
+
+CProcessInfoPlistFile /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/Info.plist GitHubTestAppTests/GitHubTestAppTests-Info.plist
+s382354226.702744
+e382354226.709757
+r1
+xProcessInfoPlistFile
+x/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/Info.plist
+xGitHubTestAppTests/GitHubTestAppTests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Process GitHubTestAppTests/GitHubTestAppTests-Info.plist5400b43243cab641^3cbeb53243cab641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestAppTests/GitHubTestAppTests-Info.plist0000000000000000^682"ProcessInfoPlistFile build/Release-iphonesimulator/GitHubTestAppTests.octest/Info.plist GitHubTestAppTests/GitHubTestAppTests-Info.plist    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility GitHubTestAppTests/GitHubTestAppTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest/Info.plist36"1B617F41-4202-49EC-88E7-D7FF2B86B287-
+
+CProcessPCH /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.pth GitHubTestApp/GitHubTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382354226.718628
+e382354228.242621
+r1
+xProcessPCH
+x/var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.pth
+xGitHubTestApp/GitHubTestApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile GitHubTestApp/GitHubTestApp-Prefix.pchcd22b83243cab641^27143e3443cab641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/florinsabou/Workspace/GitHubTestApp/GitHubTestApp/GitHubTestApp-Prefix.pch0000000000000000^3995"ProcessPCH /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.pth GitHubTestApp/GitHubTestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-generated-files.hmap -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-own-target-headers.hmap -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-all-target-headers.hmap -iquote /Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/GitHubTestAppTests-project-headers.hmap -I/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/DerivedSources/i386 -I/Users/florinsabou/Workspace/GitHubTestApp/build/GitHubTestApp.build/Release-iphonesimulator/GitHubTestAppTests.build/DerivedSources -F/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.dia -c /Users/florinsabou/Workspace/GitHubTestApp/GitHubTestApp/GitHubTestApp-Prefix.pch -o /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4_/vksgtn8s6nzd_j5v_55jq0080000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/GitHubTestApp-Prefix-gnweldlsdvqrizejctjinhpopnpt/GitHubTestApp-Prefix.pch.d36"1EDBFEF3-A830-49B2-8C54-7E08B4D4E8DD-
+
+CTouch /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest
+s382354231.203355
+e382354231.208805
+r1
+xTouch
+x/Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Touch /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest882a343743cab641^e674353743cab641^---0#0#0#--475"Touch build/Release-iphonesimulator/GitHubTestAppTests.octest    cd /Users/florinsabou/Workspace/GitHubTestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/florinsabou/Workspace/GitHubTestApp/build/Release-iphonesimulator/GitHubTestAppTests.octest36"F2A5106B-D2FA-4CAA-B418-F883B9DA7664-
+

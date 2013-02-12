@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0460"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5AC279B216C925C7002B3CD3"
+               BuildableName = "GitHubTestApp.app"
+               BlueprintName = "GitHubTestApp"
+               ReferencedContainer = "container:GitHubTestApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5AC279B216C925C7002B3CD3"
+            BuildableName = "GitHubTestApp.app"
+            BlueprintName = "GitHubTestApp"
+            ReferencedContainer = "container:GitHubTestApp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5AC279B216C925C7002B3CD3"
+            BuildableName = "GitHubTestApp.app"
+            BlueprintName = "GitHubTestApp"
+            ReferencedContainer = "container:GitHubTestApp.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "if ENV[&apos;SL_RUN_UNIT_TESTS&apos;] then&#10;    launcher_path = File.join(ENV[&apos;SRCROOT&apos;], &quot;Scripts&quot;, &quot;ios-sim&quot;)&#10;    test_bundle_path= File.join(ENV[&apos;BUILT_PRODUCTS_DIR&apos;], &quot;#{ENV[&apos;PRODUCT_NAME&apos;]}.#{ENV[&apos;WRAPPER_EXTENSION&apos;]}&quot;)&#10;&#10;    environment = {&#10;        &apos;DYLD_INSERT_LIBRARIES&apos; =&gt; &quot;/../../Library/PrivateFrameworks/IDEBundleInjection.framework/IDEBundleInjection&quot;,&#10;        &apos;XCInjectBundle&apos; =&gt; test_bundle_path,&#10;        &apos;XCInjectBundleInto&apos; =&gt; ENV[&quot;TEST_HOST&quot;]&#10;    }&#10;&#10;    environment_args = environment.collect { |key, value| &quot;--setenv #{key}=\&quot;#{value}\&quot;&quot;}.join(&quot; &quot;)&#10;&#10;    app_test_host = File.dirname(ENV[&quot;TEST_HOST&quot;])&#10;    system(&quot;#{launcher_path} launch \&quot;#{app_test_host}\&quot; #{environment_args} --args -SenTest All #{test_bundle_path}&quot;)&#10;else&#10;    puts &quot;SL_RUN_UNIT_TESTS not set - Did not run unit tests!&quot;&#10;end"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5AC279B216C925C7002B3CD3"
+            BuildableName = "GitHubTestApp.app"
+            BlueprintName = "GitHubTestApp"
+            ReferencedContainer = "container:GitHubTestApp.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
