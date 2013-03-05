@@ -30,6 +30,10 @@
     STAssertNotNil(application,@"application is nil!");
 }
 
+- (void)testExample1
+{
+    STFail(@"Fail 1");
+}
 
 - (void)testSaby2
 {
@@ -41,7 +45,6 @@
 {
     STFail(@"Unit tests are not implemented yet in GitHubTestAppTests");
 }
-
 
 
 
